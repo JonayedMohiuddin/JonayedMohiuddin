@@ -7,7 +7,7 @@ Here are some details about me ;).
   - 🍩 2D projection of 3D objects on a terminal.
 
 - 🌱 I’m currently learning C++.
-- 🚀 I'll try learn in future:
+- 🚀 I'll try to learn in future:
   - ☢️ _Compiler Design_.
   - 👨‍💻 X86 and ARM Assembly Language.
 - 😎 I know : 
