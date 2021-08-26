@@ -10,13 +10,15 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning C++.
 - 🚀 I'll learn in future:
-  - ☢️ _Compiler Designing_.
+  - ☢️ _Compiler Design_.
   - 👨‍💻 X86 and ARM Assembly Language.
-- 😎 I learned : 
+- 😎 I know : 
   - 💣 C programming.
-  - 🎮 LibGdx Game Dev
-  - ❤ Love2D game Dev
-  - 🌙 Lua programming
+  - 🎮 LibGdx Game Dev.
+  - ❤ Love2D game Dev.
+  - 🌙 Lua programming.
+  - 🌐 HTML, CSS and Javascript.
+  - 📟 8Bit Computer Architecture Basics.
 - 🤝 I’m looking to collaborate on any C++ or Python projects.
 - 🤔 I’m looking for help with _Compiler Designs_.
 - 💬 Ask me about anything but I might not be able to answer 🙃.
