@@ -18,14 +18,14 @@ Here are some ideas to get you started:
   - ❤ Love2D game Dev.
   - 🌙 Lua programming.
   - 🌐 HTML, CSS and Javascript.
-  - 📟 8Bit Computer Architecture Basics.
+  - 🧮 8Bit Computer Architecture Basics.
 - 🤝 I’m looking to collaborate on any C++ or Python projects.
 - 🤔 I’m looking for help with _Compiler Designs_.
 - 💬 Ask me about anything but I might not be able to answer 🙃.
 - 📫 How to reach me: 
   -📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
-- ⚡ Fun Facts: :trollface:
+- ⚡ Fun Facts: :trollface: :trollface: :trollface:
 <!--
 - 😄 Pronouns: ...
 -->
