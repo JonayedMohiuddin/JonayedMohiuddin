@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
   -📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
-
+- ⚡ Fun Facts: :trollface:
 <!--
 - 😄 Pronouns: ...
 -->
