@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything but I might not be able to answer 🙃.
 - 📫 How to reach me: 
   - 🌍 Send me a [email](jonayedmohiuddin@gmail.com)
+  - 💬 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
 - ⚡ Fun fact: I am a full noob at programming.
 <!--
 - 😄 Pronouns: ...
