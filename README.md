@@ -24,10 +24,5 @@ Here are some details about me ;).
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
 - ⚡ Fun Facts: :trollface: :trollface: :trollface:
-| Output Type   | Command        | Demo Output  |
-| ------------- |:--------------:| ------------:|
-| MEMORY TYPE*  | $MEMORY or $M  | MEM[2] = 65  |
-| DECIMAL       | $DECIMAL or $D |      65      |
-| ASCII         | $ASCII or $A   |       A      |
 
 
