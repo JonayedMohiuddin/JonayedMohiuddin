@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👨‍🔧 I’m currently working on :
   - 🤪 [Brainfu*k Interpreter](https://github.com/JonayedMohiuddin/Brainf-ck.git)
   - 🍩 2D projection of 3D objects on a terminal.
-  - 
+
 - 🌱 I’m currently learning C++.
 - 🚀 I'll learn in future:
   - ☢️ _Compiler Designing_.
