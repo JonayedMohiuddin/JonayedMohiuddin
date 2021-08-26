@@ -4,7 +4,9 @@
 **JonayedMohiuddin/JonayedMohiuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [Brainfu*k Interpreter](https://github.com/JonayedMohiuddin/Brainf-ck.git)
+- 🔭 I’m currently working on:
+  - [Brainfu*k Interpreter](https://github.com/JonayedMohiuddin/Brainf-ck.git)
+  - 2D projection of 3D objects on a terminal.
 - 🌱 I’m currently learning C++ and Compiler Design.
 - 👯 I’m looking to collaborate on any C++ or Python or Java projects.
 - 🤔 I’m looking for help with _Compiler Designs_
