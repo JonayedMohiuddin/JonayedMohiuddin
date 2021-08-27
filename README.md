@@ -5,11 +5,11 @@ Here are some details about me ;).
 - 👨‍🔧 I’m currently working on :
   - 🍩 2D projection of 3D objects on a terminal.
 
-- 🌱 I’m currently learning C++(My Favourite language).
+- 🌱 I’m currently learning C++ (My Favourite language).
 - 🚀 I'll try to learn in future:
   - ☢️ _Compiler Design_.
   - 👨‍💻 X86 Assembly.
-- 😎 I know : 
+- 😎  : 
   - 💣 C programming.
   - 🎮 LibGdx Game Dev.
   - ❤ Love2D game Dev.
