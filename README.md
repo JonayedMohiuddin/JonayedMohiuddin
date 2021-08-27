@@ -18,7 +18,7 @@ Here are some details about me ;).
   - 🌙 Lua programming.(👶 My first entry into programming)
   - 🧮 8Bit Computer Architecture Basics.
 - 🤝 I’m looking to collaborate on any C++ or Python projects.
-- 🤔 I’m looking for help with _Compiler Designs_ and _ASSEMBLY Language.
+- 🤔 I’m looking for help with __Compiler Designs__, __2D rendering of 3d models__ and __ASSEMBLY__ Language.
 - 💬 Ask me about anything but I might not be able to answer 🙃.
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
