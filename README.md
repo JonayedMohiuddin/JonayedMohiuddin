@@ -3,7 +3,7 @@ I am Jonayed a front-end C++ developer.
 Here are some details about me ;).
 
 - 👨‍🔧 I’m currently working on :
-  - 🍩 2D projection of 3D objects on a terminal.
+  [ ] 🍩 2D projection of 3D objects on a terminal.
 
 - 🌱 I’m currently learning C++(My Favourite language).
 - 🚀 I'll try to learn in future:
