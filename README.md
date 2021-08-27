@@ -6,7 +6,7 @@ Here are some details about me ;).
   - 🤪 [Brainfu*k Interpreter](https://github.com/JonayedMohiuddin/Brainf-ck.git)
   - 🍩 2D projection of 3D objects on a terminal.
 
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning C++(My Favourite language).
 - 🚀 I'll try to learn in future:
   - ☢️ _Compiler Design_.
   - 👨‍💻 X86 and ARM Assembly Language.
@@ -14,8 +14,8 @@ Here are some details about me ;).
   - 💣 C programming.
   - 🎮 LibGdx Game Dev.
   - ❤ Love2D game Dev.
-  - 🌙 Lua programming.
   - 🌐 HTML, CSS and Javascript.
+  - 🌙 Lua programming.(My first entry into programming.
   - 🧮 8Bit Computer Architecture Basics.
 - 🤝 I’m looking to collaborate on any C++ or Python projects.
 - 🤔 I’m looking for help with _Compiler Designs_ and _ASSEMBLY Language.
