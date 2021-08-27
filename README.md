@@ -1,4 +1,5 @@
 ### Hi There 👋
+I hope you are having a nice day and the rest of your day will be great also. May you shine in life 😊.
 I am Jonayed a front-end C++ developer.
 Here are some details about me ;).
 
