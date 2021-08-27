@@ -8,7 +8,7 @@ Here are some details about me ;).
 - 🌱 I’m currently learning C++(My Favourite language).
 - 🚀 I'll try to learn in future:
   - ☢️ _Compiler Design_.
-  - 👨‍💻 X86 and ARM Assembly Language.
+  - 👨‍💻 X86 Assembly.
 - 😎 I know : 
   - 💣 C programming.
   - 🎮 LibGdx Game Dev.
