@@ -19,7 +19,7 @@ Here are some details about me ;).
   - 🧮 8Bit Computer Architecture Basics.
 - 🤝 I’m looking to collaborate on any C++ or Python projects.
 - 🤔 I’m looking for help with __Compiler Designs__, __2D rendering of 3d models__ and __ASSEMBLY__ Language.
-- 💬 Ask me about anything but I might not be able to answer 🙃.
+- 💬 Ask me about programming.
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
