@@ -15,7 +15,7 @@ Here are some details about me ;).
   - 🎮 LibGdx Game Dev.
   - ❤ Love2D game Dev.
   - 🌐 HTML, CSS and Javascript.
-  - 🌙 Lua programming.(My first entry into programming.
+  - 🌙 Lua programming.(👶 My first entry into programming)
   - 🧮 8Bit Computer Architecture Basics.
 - 🤝 I’m looking to collaborate on any C++ or Python projects.
 - 🤔 I’m looking for help with _Compiler Designs_ and _ASSEMBLY Language.
