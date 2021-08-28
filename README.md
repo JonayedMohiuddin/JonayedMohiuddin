@@ -9,6 +9,7 @@ Here are some details about me ;).
 - 🌱 I’m currently learning C++ (My Favourite language).
 - 🚀 I'll try to learn in future:
   - ☢️ __Compiler Design__.
+  - 🏃‍♂️ __Competetive Programming__
   - 👨‍💻 X86 Assembly.
 - 😎 I have some experience working with : 
   - 💣 C programming.
@@ -16,8 +17,7 @@ Here are some details about me ;).
   - ❤ Love2D game Dev.
   - 🌐 HTML, CSS and Javascript.
   - 🌙 Lua programming.(👶 My first entry into programming)
-  - 🧮 8Bit Computer Architecture Basics.
-- 🤝 I’m looking to collaborate on any C++ or Python projects.
+- 🤝 I’m looking to collaborate on any C++ projects.
 - 🤔 I’m looking for help with __Compiler Designs__, __2D rendering of 3d models__ and __ASSEMBLY__ Language.
 - 💬 Ask me about programming.
 - 📫 How to reach me: 
