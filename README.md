@@ -1,7 +1,7 @@
 ### Hi There 👋
 I hope you are having a nice day and the rest of your day will be great also. May you shine in life 😊.</br>
 I am Jonayed a front-end C++ developer.
-Here are some details about me ;).
+Here are some details about me ;)
 
 - 👨‍🔧 I’m currently working on :
   - 🍩 2D projection of 3D objects on a terminal.
@@ -24,5 +24,7 @@ Here are some details about me ;).
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
 - ⚡ Fun Facts: :trollface: :trollface: :trollface:
+
+![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=JonayedMohiuddin&show_icons=true&theme=blue-green)
 
 
