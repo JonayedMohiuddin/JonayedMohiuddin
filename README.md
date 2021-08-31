@@ -1,5 +1,5 @@
 <img src = "/header.png">
-I love learning math, physics and programming. </br>
+I am a math, physics and programming enthusiasist. </br>
 Here are some details about me ;)
 
 - 👨‍🔧 I’m currently working on :
@@ -22,7 +22,8 @@ Here are some details about me ;)
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
-### 🤣 Some random jokes for you:
+- ⚡ Fun Fact: You can't ⭐ `star` this readme, try it!
+### 🤣 Some random jokes for you :
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f">
 </div>
