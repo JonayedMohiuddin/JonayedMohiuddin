@@ -24,7 +24,10 @@ Here are some details about me ;)
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
 
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f)
+
 ![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=JonayedMohiuddin&show_icons=true&theme=blue-green)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonayedMohiuddin&layout=compact&langs_count=8&hide=html,css&theme=chartreuse-dark)
 
 
@@ -45,7 +48,6 @@ Here are some details about me ;)
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
 
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=JonayedMohiuddin" alt="visitor badge"/>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f)
 
