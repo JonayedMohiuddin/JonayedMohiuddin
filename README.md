@@ -6,7 +6,7 @@ Here are some details about me ;)
 - 👨‍🔧 I’m currently working on :
   - 🍩 2D projection of 3D objects on a terminal.
 - 🌱 I’m currently learning C++ and DSA (My Favourite language).
-<details>
+<details>Hello
 - 🚀 I'll try to learn in future:
   - ☢️ __Compiler Design__.
   - 🏃‍♂️ __Competetive Programming__
