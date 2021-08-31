@@ -5,8 +5,8 @@ Here are some details about me ;)
 
 - 👨‍🔧 I’m currently working on :
   - 🍩 2D projection of 3D objects on a terminal.
-
 - 🌱 I’m currently learning C++ and DSA (My Favourite language).
+- <detilas>
 - 🚀 I'll try to learn in future:
   - ☢️ __Compiler Design__.
   - 🏃‍♂️ __Competetive Programming__
@@ -21,10 +21,11 @@ Here are some details about me ;)
 - 🤝 I’m looking to collaborate on any C++ projects.
 - 🤔 I’m looking for help with __Compiler Designs__, __2D rendering of 3d models__ and __Computer Design__ Language.
 - 💬 Ask me about programming.
+</detials>
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
-- ⚡ Fun Facts: :trollface: :trollface: :trollface:
+
 
 ![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=JonayedMohiuddin&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonayedMohiuddin&layout=compact&langs_count=8&hide=html,css&theme=chartreuse-dark)
@@ -32,7 +33,7 @@ Here are some details about me ;)
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="Html" style="vertical-align:top; margin:4px"> 
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/csharp.svg"alt="C#" style="vertical-align:top; margin:4px"> 
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/cpp.svg"alt="C#" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="JavaScript" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/cloud.svg" alt="Cloud" style="vertical-align:top; margin:4px"> 
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/datascience.svg" alt="DataScience" style="vertical-align:top; margin:4px"> 
