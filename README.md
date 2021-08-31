@@ -1,4 +1,4 @@
-[Hi there](JonayedMohiuddin/header.png)
+<img src = "/header.png">
 I love learning math, physics and programming. </br>
 Here are some details about me ;)
 
