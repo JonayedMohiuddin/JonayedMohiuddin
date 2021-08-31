@@ -1,5 +1,5 @@
 ## Hi There 👋
-I am Jonayed an average programming enthusiasist trying to grasp the hard concepts of programming, maths and physics(Failing most of the time though)
+I am Jonayed an average programmer. I love learning math, physics and programming. </br>
 Here are some details about me ;)
 
 - 👨‍🔧 I’m currently working on :
