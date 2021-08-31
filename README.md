@@ -26,5 +26,6 @@ Here are some details about me ;)
 - ⚡ Fun Facts: :trollface: :trollface: :trollface:
 
 ![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=JonayedMohiuddin&show_icons=true&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahBinJahed&layout=compact&langs_count=8&hide=html,css&theme=chartreuse-dark)
 
 
