@@ -24,7 +24,9 @@ Here are some details about me ;)
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
 
+<div align="center">
 ![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f)
+</div>
 
 ![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=JonayedMohiuddin&show_icons=true&theme=blue-green)
 
