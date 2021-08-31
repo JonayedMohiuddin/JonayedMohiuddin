@@ -6,7 +6,6 @@ Here are some details about me ;)
 - 👨‍🔧 I’m currently working on :
   - 🍩 2D projection of 3D objects on a terminal.
 - 🌱 I’m currently learning C++ and DSA (My Favourite language).
-<Hell>Hello
 - 🚀 I'll try to learn in future:
   - ☢️ __Compiler Design__.
   - 🏃‍♂️ __Competetive Programming__
@@ -21,11 +20,9 @@ Here are some details about me ;)
 - 🤝 I’m looking to collaborate on any C++ projects.
 - 🤔 I’m looking for help with __Compiler Designs__, __2D rendering of 3d models__ and __Computer Design__ Language.
 - 💬 Ask me about programming.
-</Hell>
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
-
 
 ![My Guthub Stats](https://github-readme-stats.vercel.app/api?username=JonayedMohiuddin&show_icons=true&theme=blue-green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonayedMohiuddin&layout=compact&langs_count=8&hide=html,css&theme=chartreuse-dark)
@@ -42,7 +39,7 @@ Here are some details about me ;)
 <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="Bash" style="vertical-align:top; margin:4px">
 <p align="center">
   
- <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
@@ -50,4 +47,5 @@ Here are some details about me ;)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f)
 
