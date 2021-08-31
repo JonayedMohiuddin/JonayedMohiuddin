@@ -1,5 +1,5 @@
-## Hi There 👋
-I am Jonayed an average programmer. I love learning math, physics and programming. </br>
+[Hi there!](/header.png)
+I love learning math, physics and programming. </br>
 Here are some details about me ;)
 
 - 👨‍🔧 I’m currently working on :
