@@ -10,6 +10,7 @@ Here are some details about me ;)
 - 🚀 I'll try to learn in future:
   - ☢️ __Compiler Design__.
   - 🏃‍♂️ __Competetive Programming__
+  - 🖥 __Computer Design__
   - 👨‍💻 X86 Assembly.
 - 😎 I have some experience working with : 
   - 💣 C programming.
