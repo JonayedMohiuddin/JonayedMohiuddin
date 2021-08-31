@@ -1,4 +1,4 @@
-### Hi There 👋
+## Hi There 👋
 I hope you are having a nice day and the rest of your day will be great also. May you shine in life 😊.</br>
 I am Jonayed a front-end C++ developer.
 Here are some details about me ;)
@@ -23,7 +23,7 @@ Here are some details about me ;)
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
-## 🤣 Some random jokes for you:
+### 🤣 Some random jokes for you:
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23212529&textColor=%23ffddd2&qColor=%23f94144&aColor=%2390be6d&borderColor=%23f9c74f&codeColor=%23f9c74f">
 </div>
