@@ -2,9 +2,8 @@
 I am a math, physics and programming enthusiasist. </br>
 Here are some details about me ;)
 
-- 👨‍🔧 I’m currently working on :
-  - 🍩 2D projection of 3D objects on a terminal.
-- 🌱 I’m currently learning C++ and DSA (My Favourite language).
+- 👨‍🔧 I’m currently working on : Null
+- 🌱 I’m currently learning C++ and DSA.
 - 🚀 I'll try to learn in future:
   - ☢️ __Compiler Design__.
   - 🏃‍♂️ __Competetive Programming__
@@ -16,8 +15,7 @@ Here are some details about me ;)
   - 📱 Android App Dev.
   - 🌐 HTML, CSS and Javascript.
   - 🌙 Lua programming.(👶 My first exposure to programming)
-- 🤝 I’m looking to collaborate on any C++ projects.
-- 🤔 I’m looking for help with __Compiler Designs__, __2D rendering of 3d models__ and __Computer Design__ Language.
+- 🤔 I’m looking for help with __Compiler Designs__, __2D rendering of 3d models__ and __Computer Design__.
 - 💬 Ask me about programming.
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
