@@ -5,14 +5,13 @@ Here are some details about me ;)
 - 👨‍🔧 I’m currently working on : 404
 - 🌱 I’m currently learning C++ and DSA.
 - 🚀 I'll try to learn in future:
-  - ☢️ __Compiler Design__.
   - 🏃‍♂️ __Competetive Programming__
+  - ☢️ __Compiler Design__.
   - 🖥 __Computer Design__
   - 👨‍💻 X86 Assembly.
 - 😎 I have some experience working with : 
   - 💣 C programming.
   - 🎮 LibGdx and ❤ Löve2d Game Dev.
-  - 📱 Android App Dev.
   - 🌐 HTML, CSS and Javascript.
   - 🌙 Lua programming.(👶 My first exposure to programming)
 - 🤔 I’m looking for help with __Competetive Programming__.
