@@ -2,7 +2,7 @@
 I am a math, physics and programming enthusiasist. </br>
 Here are some details about me ;)
 
-- 👨‍🔧 I’m currently working on : Null
+- 👨‍🔧 I’m currently working on : 404
 - 🌱 I’m currently learning C++ and DSA.
 - 🚀 I'll try to learn in future:
   - ☢️ __Compiler Design__.
@@ -15,7 +15,7 @@ Here are some details about me ;)
   - 📱 Android App Dev.
   - 🌐 HTML, CSS and Javascript.
   - 🌙 Lua programming.(👶 My first exposure to programming)
-- 🤔 I’m looking for help with __Compiler Designs__, __2D rendering of 3d models__ and __Computer Design__.
+- 🤔 I’m looking for help with __Competetive Programming__.
 - 💬 Ask me about programming.
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
