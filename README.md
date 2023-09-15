@@ -10,7 +10,6 @@ Here are some details about me ;)
   - 💣 C programming.
   - 🎮 LibGdx and ❤ Löve2d Game Dev.
   - 🌐 HTML, CSS and Javascript.
-  - 🌙 Lua programming.(👶 My first exposure to programming)
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
