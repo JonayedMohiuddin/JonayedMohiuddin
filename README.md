@@ -23,7 +23,7 @@ Here are some details about me ;)
   <img src="https://github-readme-stats.vercel.app/api?username=JonayedMohiuddin&show_icons=true&theme=blue-green">
 </div>
 
-<br/>
+<br/><br/>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=JonayedMohiuddin" alt="visitor badge"/>
 
