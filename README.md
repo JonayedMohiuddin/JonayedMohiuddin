@@ -9,7 +9,7 @@ Here are some details about me ;)
 - 😎 I have some experience working with : 
   - 💣 C and C++ programming.
   - ☕ Java and JavaFX Framework.
-  - 🎮 LibGdx and ❤ Löve2d Game Dev.
+  - 🎮 LibGdx, 🌀 SDL2 and ❤ Löve2d Game Dev.
   - 🌐 HTML, CSS and Javascript.
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
