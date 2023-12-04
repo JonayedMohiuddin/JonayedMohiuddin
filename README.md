@@ -7,7 +7,8 @@ Here are some details about me ;)
 - 🚀 I'll try to learn in future:
   - 🏃‍♂️ __Competetive Programming__
 - 😎 I have some experience working with : 
-  - 💣 C programming.
+  - 💣 C and C++ programming.
+  - ☕ Java and JavaFX Framework.
   - 🎮 LibGdx and ❤ Löve2d Game Dev.
   - 🌐 HTML, CSS and Javascript.
 - 📫 How to reach me: 
