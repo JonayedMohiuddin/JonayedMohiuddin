@@ -2,7 +2,7 @@
 I am a programming, math and physics enthusiasist. </br>
 Here are some details about me ;)
 
-- 👨‍🔧 I’m currently working on : [Swift Send](https://github.com/JonayedMohiuddin/Swift-Send)
+- 👨‍🔧 I’m currently working on : Swift Send
 - 🚀 I'll try to learn in future:
   - 🏃‍♂️ __Competetive Programming__
 - 😎 I have some experience working with : 
