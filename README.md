@@ -4,12 +4,14 @@ Here are some details about me ;)
 
 - 👨‍🔧 I’m currently working on : Swift Send
 - 🚀 I'll try to learn in future:
-  - 🏃‍♂️ __Competetive Programming__
+  - 🏃‍♂️ __Machine Learning__
 - 😎 I have some experience working with : 
   - 💣 C and C++ programming.
   - ☕ Java and JavaFX Framework.
   - 🎮 LibGdx, 🌀 SDL2 and ❤ Löve2d Game Dev.
   - 🌐 HTML, CSS and Javascript.
+  - 🌐 Nodejs, Express and React
+  - 📊 SQL, Oracle Database, Postresql
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
