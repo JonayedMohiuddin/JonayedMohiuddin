@@ -2,7 +2,7 @@
 I am a programming, math and physics enthusiasist. </br>
 Here are some details about me ;)
 
-- 👨‍🔧 I’m currently working on : Swift Send
+- 👨‍🔧 I’m currently working on : 8-BIT MIPS
 - 🚀 I'll try to learn in future:
   - 🏃‍♂️ __Machine Learning__
 - 😎 I have some experience working with : 
@@ -11,7 +11,7 @@ Here are some details about me ;)
   - 🎮 LibGdx, 🌀 SDL2 and ❤ Löve2d Game Dev.
   - 🌐 HTML, CSS and Javascript.
   - 🌐 Nodejs, Express and React
-  - 📊 SQL, Oracle Database, Postresql
+  - 📊 SQL and DBMS
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
