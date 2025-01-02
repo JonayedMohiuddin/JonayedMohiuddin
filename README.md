@@ -2,9 +2,10 @@
 I am a programming, math and physics enthusiasist. </br>
 Here are some details about me ;)
 
-- 👨‍🔧 I’m currently working on : 8-BIT MIPS
+- 👨‍🔧 I’m currently working on : NULL
 - 🚀 I'll try to learn in future:
   - 🏃‍♂️ __Machine Learning__
+  - 🎮 __Unity Game Dev__
 - 😎 I have some experience working with : 
   - 💣 C and C++ programming.
   - ☕ Java and JavaFX Framework.
