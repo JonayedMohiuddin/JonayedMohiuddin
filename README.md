@@ -13,6 +13,7 @@ Here are some details about me ;)
   - 🌐 HTML, CSS and Javascript.
   - 🌐 Nodejs, Express and React
   - 📊 SQL and DBMS
+  - ⚙ 8086 Assembly and MIPS Assembly
 - 📫 How to reach me: 
   - 📧 Send me a [email](jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
