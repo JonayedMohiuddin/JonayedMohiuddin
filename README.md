@@ -10,7 +10,6 @@ Here are some details about me ;)
   - 💣 C and C++ programming.
   - ☕ Java and JavaFX Framework.
   - 🎮 LibGdx, 🌀 SDL2 and ❤ Löve2d Game Dev.
-  - 🌐 HTML, CSS and Javascript.
   - 🌐 Nodejs, Express and React
   - 📊 SQL and DBMS
   - ⚙ 8086 and MIPS Assembly
