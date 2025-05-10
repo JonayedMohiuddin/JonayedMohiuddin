@@ -1,5 +1,5 @@
 <img src = "/header.png">
-I am a programming, math and physics enthusiasist. </br>
+I am a programming, and mathematics enthusiasist. </br>
 Here are some details about me ;)
 
 - 👨‍🔧 I’m currently working on : NULL
