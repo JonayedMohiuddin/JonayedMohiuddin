@@ -14,7 +14,7 @@ Here are some details about me ;)
   - 📊 SQL and DBMS
   - ⚙ 8086 and MIPS Assembly
 - 📫 How to reach me: 
-  - 📧 Send me a <a href="mailto:jonayedmohiuddin@gmail.com">email</a>
+  - 📧 Send me a [email](mailto:jonayedmohiuddin@gmail.com)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
 - ⚡ Fun Fact: You can't ⭐ `star` this readme, try it!
 ### 🤣 Some random jokes for you :
