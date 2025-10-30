@@ -5,13 +5,13 @@ Here are some details about me ;)
 - 👨‍🔧 I’m currently working on : NULL
 - 🚀 I'll try to learn in future:
   - 🏃‍♂️ __Machine Learning__
-  - 🎮 __Unity Game Dev__
 - 😎 I have some experience working with : 
-  - 💣 C and C++ programming.
-  - ☕ Java and JavaFX Framework.
-  - 🎮 LibGdx, 🌀 SDL2 and ❤ Löve2d Game Dev.
-  - 🌐 Nodejs, Express, React and React-Native
-  - 📊 SQL and DBMS
+  - 💣 C, C++ and Python Programming
+  - ☕ Java and JavaFX Framework
+  - 📷 Computer Vision with OpenCV
+  - 🎮 Unity, 🎮 LibGdx, 🌀 SDL2 and ❤ Löve2d Game Dev
+  - 🌐 Spring Boot, Nodejs, Express, FastAPI, React and React-Native
+  - 🗄️ SQL (Postgres, Oracle), NoSQL (MongoDB)
   - ⚙ 8086 and MIPS Assembly
 - 📫 How to reach me: 
   - 📧 Send me a [email](mailto:jonayedmohiuddin@gmail.com)
