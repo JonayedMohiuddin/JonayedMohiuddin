@@ -15,6 +15,7 @@ Here are some details about me ;)
   - ⚙ 8086 and MIPS Assembly
 - 📫 How to reach me: 
   - 📧 Send me a [email](mailto:jonayedmohiuddin@gmail.com)
+  - ℹ️ Connect with me on [LinkedIN](https://www.linkedin.com/in/jonayedmohiuddin)
   - 📲 Knock me at [facebook](https://www.facebook.com/jonayedmohiuddin)
 - ⚡ Fun Fact: You can't ⭐ `star` this readme, try it!
 ### 🤣 Some random jokes for you :
