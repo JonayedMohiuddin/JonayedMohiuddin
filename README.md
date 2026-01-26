@@ -4,7 +4,7 @@ Here are some details about me ;)
 
 - 👨‍🔧 I’m currently working on : NULL
 - 🚀 I'll try to learn in future:
-  - 🏃‍♂️ __Machine Learning__
+  - 🏃‍♂️ __Cyber Security__
 - 😎 I have some experience working with : 
   - 💣 C, C++ and Python Programming
   - ☕ Java and JavaFX Framework
