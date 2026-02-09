@@ -5,14 +5,15 @@ Here are some details about me ;)
 - 👨‍🔧 I’m currently working on : NULL
 - 🚀 I'll try to learn in future:
   - 🏃‍♂️ __Cyber Security__
-- 😎 I have some experience working with : 
-  - 💣 C, C++ and Python Programming
+- 😎 I have experience working with : 
+  - 💣 C, C++, Java, Python, JavaScript and Lua Programming
   - ☕ Java and JavaFX Framework
   - 📷 Computer Vision with OpenCV
-  - 🎮 Unity, 🎮 LibGdx, 🌀 SDL2 and ❤ Löve2d Game Dev
-  - 🌐 Spring Boot, Nodejs, Express, FastAPI, React and React-Native
-  - 🗄️ SQL (Postgres, Oracle), NoSQL (MongoDB)
-  - ⚙ 8086 and MIPS Assembly
+  - 🎮 Unity, LibGDX, SDL2 and ❤ LÖVE Game Dev
+  - 🌐 Spring Boot, Nodejs, Express, FastAPI, React and React-Native Framework
+  - 🗄️ SQL (PostgreSQL, Oracle), NoSQL (MongoDB) Database
+  - ⚙ 8086, MIPS and Pixhawk Embedded System
+  - ☁️ AWS: EC2, S3, RDS (PostgreSQL) and Lambda
 - 📫 How to reach me: 
   - 📧 Send me a [email](mailto:jonayedmohiuddin@gmail.com)
   - ℹ️ Connect with me on [LinkedIn](https://www.linkedin.com/in/jonayedmohiuddin)
