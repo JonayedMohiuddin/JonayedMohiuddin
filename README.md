@@ -6,7 +6,7 @@ Here are some details about me ;)
 - 🚀 I'll try to learn in future:
   - 🏃‍♂️ __Cyber Security__
 - 😎 I have experience working with : 
-  - 💣 C, C++, Java, Python, JavaScript and Lua Programming
+  - 💣 C, C++, Python, JavaScript and Lua Programming
   - ☕ Java and JavaFX Framework
   - 📷 Computer Vision with OpenCV
   - 🎮 Unity, LibGDX, SDL2 and ❤ LÖVE Game Dev
