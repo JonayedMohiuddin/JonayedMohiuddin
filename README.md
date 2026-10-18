@@ -9,7 +9,7 @@ Here are some details about me ;)
   - 💣 C, C++, Python, JavaScript and Lua Programming
   - ☕ Java and JavaFX Framework
   - 📷 Computer Vision with OpenCV
-  - 🧠 PyTorch: U-Net, Segmentation, Inpainting, Super-Resolution and Generative Models
+  - 🧠 PyTorch: U-Net, cGAN, CNN, Segmentation, Inpainting, Super-Resolution and Generative Models
   - 🎮 Unity, LibGDX, SDL2 and ❤ LÖVE Game Dev
   - 🌐 Spring Boot, Nodejs, Express, FastAPI, React and React-Native Framework
   - 🗄️ SQL (PostgreSQL, Oracle), NoSQL (MongoDB) Database
